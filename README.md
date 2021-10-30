@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/source.gif" align="right" width="250" height="250">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/source.gif" align="right" width="200" height="125">
 
 ## PHP
 My advanced PHP projects |  Gelişmiş PHP projelerim
