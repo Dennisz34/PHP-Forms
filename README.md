@@ -7,7 +7,7 @@ My advanced PHP projects |  Gelişmiş PHP projelerim
 
 <font color="pink">Coffee ☕ is how I keep up with `< code />` </font>
 
-<br /><br /><br />
+<br /><br />
 
 
 <img src="https://media.giphy.com/media/fV0oSDsZ4UgdW/source.gif" align="right" width="400" height="250">
