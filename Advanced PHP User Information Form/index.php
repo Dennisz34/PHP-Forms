@@ -12,9 +12,7 @@
 </head>
 
 <body>
-	<video width="1280" height="720" class="background" autoplay muted loop>
-   	 	<source src="https://codepen.jonnitto.ch/BackgroundVideo.mp4" type="video/mp4">
-    </video>
+
 	<form class="form-card" action="sonuc.php" method="POST">
 		<fieldset class="form-fieldset">
 			<!-- Search Start-->
