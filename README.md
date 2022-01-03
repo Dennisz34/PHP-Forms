@@ -23,6 +23,10 @@ My advanced PHP projects |  Gelişmiş PHP projelerim
 
 
 
-
+<h2 align="center">My GitHub Stats :bar_chart:</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dennisz34&show_icons=true&theme=tokyonight" width="450" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dennisz34&layout=compact&theme=tokyonight" height="180">
+</p>
 
 
